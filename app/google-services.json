@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250392650166",
+    "firebase_url": "https://voix-74f06.firebaseio.com",
+    "project_id": "voix-74f06",
+    "storage_bucket": "voix-74f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250392650166:android:10d6e987ab8f14a8",
+        "android_client_info": {
+          "package_name": "com.example.sunejas.voix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250392650166-tultbtma9qks6vpgl1ir7fmituiesq96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunejas.voix",
+            "certificate_hash": "e6d0cdbb220d7392c7ea1255bb55eb1b12eb9339"
+          }
+        },
+        {
+          "client_id": "250392650166-jvu875dk1b59776i85s3r50d1gqvio6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBliUY2O_mDDAtHtqo7I7VlArET3Usxsvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250392650166-jvu875dk1b59776i85s3r50d1gqvio6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
